@@ -1,9 +1,7 @@
 # neural-network-challenge-1
 Module 18 Challenge
 
-Sure, here's a template for a README file for your project:
 
----
 
 # Student Loan Repayment Prediction with Neural Networks
 
